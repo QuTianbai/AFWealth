@@ -6,9 +6,15 @@
 
 
 Download iOS App Signer https://github.com/DanTheMan827/ios-app-signer
+
 Download the latest version of AFWealth from above.
+
 Open iOS App Signer.
+
 Select the ipa you just downloaded as an input file.
+
 Select your Certificate and Provisioning Profiles
+
 Click start.
+
 select the file created by iOS App Signer.
